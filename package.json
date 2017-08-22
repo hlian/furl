@@ -1,0 +1,13 @@
+{
+  "name": "furl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hao Lian <hi@haolian.org>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
