@@ -1,5 +1,7 @@
-const {furl, unfurl} = require("..")
+const {furl, unfurl} = require("../src")
 const assert = require("assert")
+
+console.log(furl, unfurl)
 
 describe("uh", () => {
   it("should roundtrip", () => {
